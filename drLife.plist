@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.FairGuard.wanjoyGame</string>
+                <string>com.FairGuard.iOS-Test2</string>
                 <key>bundle-version</key>
                 <string>1.72.5</string>
                 <key>kind</key>
